@@ -1,0 +1,115 @@
+[2026-03-07 00:28:18] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate\\Log\\LogManager->driver()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#7 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2026-03-07 00:28:18] laravel.ERROR: The "" directory does not exist. {"exception":"[object] (Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException(code: 0): The \"\" directory does not exist. at /home/runner/work/newforms/newforms/vendor/symfony/finder/Finder.php:651)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(86): Symfony\\Component\\Finder\\Finder->in()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(63): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->getConfigurationFiles()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(286): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2026-03-07 00:28:28] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate\\Log\\LogManager->driver()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#7 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2026-03-07 00:28:28] laravel.ERROR: The "" directory does not exist. {"exception":"[object] (Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException(code: 0): The \"\" directory does not exist. at /home/runner/work/newforms/newforms/vendor/symfony/finder/Finder.php:651)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(86): Symfony\\Component\\Finder\\Finder->in()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(63): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->getConfigurationFiles()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(286): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2026-03-07 00:28:28] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate\\Log\\LogManager->driver()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#7 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2026-03-07 00:28:28] laravel.ERROR: The "" directory does not exist. {"exception":"[object] (Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException(code: 0): The \"\" directory does not exist. at /home/runner/work/newforms/newforms/vendor/symfony/finder/Finder.php:651)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(86): Symfony\\Component\\Finder\\Finder->in()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(63): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->getConfigurationFiles()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(286): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2026-03-07 00:28:31] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate\\Log\\LogManager->driver()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#7 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2026-03-07 00:28:31] laravel.ERROR: The "" directory does not exist. {"exception":"[object] (Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException(code: 0): The \"\" directory does not exist. at /home/runner/work/newforms/newforms/vendor/symfony/finder/Finder.php:651)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(86): Symfony\\Component\\Finder\\Finder->in()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(63): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->getConfigurationFiles()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(286): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
+[2026-03-07 00:28:36] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate\\Log\\LogManager->resolve()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate\\Log\\LogManager->get()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate\\Log\\LogManager->driver()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate\\Log\\LogManager->error()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate\\Foundation\\Exceptions\\Handler->reportThrowable()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate\\Foundation\\Exceptions\\Handler->report()
+#6 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate\\Foundation\\Console\\Kernel->reportException()
+#7 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2026-03-07 00:28:36] laravel.ERROR: The "" directory does not exist. {"exception":"[object] (Symfony\\Component\\Finder\\Exception\\DirectoryNotFoundException(code: 0): The \"\" directory does not exist. at /home/runner/work/newforms/newforms/vendor/symfony/finder/Finder.php:651)
+[stacktrace]
+#0 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(86): Symfony\\Component\\Finder\\Finder->in()
+#1 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(63): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->getConfigurationFiles()
+#2 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(39): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->loadConfigurationFiles()
+#3 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(286): Illuminate\\Foundation\\Bootstrap\\LoadConfiguration->bootstrap()
+#4 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#5 /home/runner/work/newforms/newforms/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#6 /home/runner/work/newforms/newforms/artisan(12): Illuminate\\Foundation\\Console\\Kernel->handle()
+#7 {main}
+"} 
